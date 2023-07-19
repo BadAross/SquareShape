@@ -1,0 +1,6 @@
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\bin\Debug\SquareShape.dll
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\bin\Debug\SquareShape.pdb
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\obj\Debug\SquareShape.csproj.AssemblyReference.cache
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\obj\Debug\SquareShape.csproj.CoreCompileInputs.cache
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\obj\Debug\SquareShape.dll
+C:\Users\xac32\OneDrive\Рабочий стол\SquareShape\SquareShape\obj\Debug\SquareShape.pdb
